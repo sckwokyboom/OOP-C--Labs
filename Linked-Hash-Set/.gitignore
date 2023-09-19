@@ -1,0 +1,9 @@
+# Project exclude paths
+/cmake-build-debug/
+/cmake-build-release/
+/build/
+.idea
+valgrind-out.txt
+memory_check
+tester
+a.out
