@@ -1,0 +1,9 @@
+# Project exclude paths
+/cmake-build-debug/
+/cmake-build-release/
+/build/
+.idea
+console_app
+memory_check
+tester
+a.out
